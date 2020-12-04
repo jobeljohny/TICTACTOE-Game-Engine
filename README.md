@@ -11,4 +11,7 @@ command line GUI game where you can play against the computer.
 
 ## Download the application here
 
-download
+download : [XO Mania](https://github.com/jobeljohny/XO-Game-Engine/raw/main/XO%20Mania.exe)
+
+### Queries
+contact : jobeljohny@gmail.com
