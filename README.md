@@ -11,7 +11,7 @@ Tic Tac Toe GUI game where you can play against the computer.
 - Easy as that, Enjoy!
 
 ## Here's a sneak preview
-<img src="screenshots/1.PNG" width="300" />  &emsp;&emsp;&emsp; <img src="screenshots/2.PNG" width="300" />  &emsp; <img src="screenshots/3.PNG" width="300" />
+<img src="screenshots/1.PNG" width="300" />  &emsp;&emsp; <img src="screenshots/2.PNG" width="300" />  &emsp;&emsp; <img src="screenshots/3.PNG" width="300" />
 
 
 
