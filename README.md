@@ -2,7 +2,12 @@
 Tic Tac Toe GUI game where you can play against the computer. 
 
 
+## HOW TO INSTALL
 
+- Download the game from link below
+- Extract the RAR file
+- Select TIC TAC TOE application
+- Easy as that, Enjoy!
 
 ## HOW TO PLAY
 
