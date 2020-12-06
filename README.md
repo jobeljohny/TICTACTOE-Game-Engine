@@ -11,12 +11,13 @@ Tic Tac Toe GUI game where you can play against the computer.
 - Easy as that, Enjoy!
 
 ## Here's a sneak preview
+<img src="screenshots/1.PNG" width="300" />  &emsp; <img src="screenshots/2.PNG" width="300" />  &emsp; <img src="screenshots/3.PNG" width="300" />
 
-![screenshot](/relative/path/to/img.jpg?raw=true )
+
 
 ## Download the application here
 
-download : [XO Mania](https://github.com/jobeljohny/XO-Game-Engine/blob/main/screenshots/1.PNG?raw=true)
+download : [XO Mania](https://github.com/jobeljohny/XO-Game-Engine/raw/main/TIC%20TAC%20TOE.rar)
 
 ### Queries
 contact : jobeljohny@gmail.com
