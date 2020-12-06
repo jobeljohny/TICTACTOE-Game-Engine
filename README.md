@@ -10,7 +10,7 @@ Tic Tac Toe GUI game where you can play against the computer.
 
 ## Download the application here
 
-download : [XO Mania](https://github.com/jobeljohny/XO-Game-Engine/raw/main/TicTacToe.rar)
+download : [XO Mania](https://drive.google.com/uc?export=download&id=1XU51IcW58-CnrLfp6rOh1xIVq688HlLg)
 
 ### Queries
 contact : jobeljohny@gmail.com
